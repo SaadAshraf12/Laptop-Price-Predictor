@@ -72,20 +72,6 @@ The application is built using **Tkinter** and provides:
 
 ---
 
-## 📷 Screenshots
-
-<details>
-<summary>Click to expand</summary>
-
-* 📊 Heatmap showing correlation
-* 📈 Histograms for top features
-* 🥧 Pie charts for distributions
-* 🧪 Prediction result with accuracy
-* 📃 SweetViz-generated EDA report
-
-</details>
-
-
 
 ## 📈 Future Work
 
